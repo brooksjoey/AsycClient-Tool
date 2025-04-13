@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+rat_deployment.log
+rat_deployment/
+build/
+dist/
+obf/
+*.spec
